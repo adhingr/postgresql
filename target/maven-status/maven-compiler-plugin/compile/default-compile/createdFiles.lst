@@ -1,0 +1,5 @@
+project\postgresdatabase\JPACompanyRepository.class
+project\postgresdatabase\model\CompanyService.class
+project\postgresdatabase\Controller\CompanyController.class
+project\postgresdatabase\PostgresDatabaseApplication.class
+project\postgresdatabase\model\Companies.class
